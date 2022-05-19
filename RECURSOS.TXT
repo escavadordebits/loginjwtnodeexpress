@@ -1,0 +1,2 @@
+npm install bcrypt dotenv express jsonwebtoken mongoose
+npm install --save-dev nodemon
